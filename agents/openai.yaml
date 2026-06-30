@@ -1,0 +1,4 @@
+interface:
+  display_name: "S&OP"
+  short_description: "S&OP replenishment planning from Comfy data"
+  default_prompt: "Use $s-op to create an intelligent replenishment recommendation from the Comfy database."
